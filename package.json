@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/sethbergman/JavaScript-Drum-Kit/issues"
   },
-  "homepage": "https://github.com/sethbergman/JavaScript-Drum-Kit#readme",
+  "homepage": "https://javascript-drum-kit.stackriot.com",
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
