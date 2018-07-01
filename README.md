@@ -1,6 +1,7 @@
 # JavaScript Drum Kit
 
-## Play the drums on your keyboard
+##### Play the drums on your keyboard
+---
 
 ### Install dependencies
 
@@ -9,11 +10,15 @@ npm i # or use yarn
 yarn
 ```
 
-### Start jamming
+### Start the application
 
 ```sh
 npm start # or
 yarn start
 ```
 
-#### More documentation to come... :rocket:
+### Jam out :smiley:
+
+Navigate to http://localhost:5000 and have fun!
+
+#### More documentation coming soon :octocat:
