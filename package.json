@@ -4,8 +4,8 @@
   "description": "Play the drums on your keyboard",
   "main": "server.js",
   "engines": {
-    "node": ">=8.11.1",
-    "npm": ">=5.7.1"
+    "node": ">=10",
+    "npm": ">=6"
   },
   "scripts": {
     "start": "node server",
@@ -22,10 +22,9 @@
   },
   "homepage": "https://javascript-drum-kit.stackriot.com",
   "dependencies": {
-    "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
-    "errorhandler": "^1.5.0",
-    "express": "^4.16.3",
+    "errorhandler": "^1.5.1",
+    "express": "^4.17.1",
     "html": "^1.0.0",
     "path": "^0.12.7"
   }

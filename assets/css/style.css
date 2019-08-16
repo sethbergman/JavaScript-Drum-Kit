@@ -1,6 +1,6 @@
 html {
   font-size: 11px;
-  background: url('../images/venue.jpg') bottom center;
+  background: url("../images/venue.jpg") bottom center;
   background-size: cover;
 }
 body,
